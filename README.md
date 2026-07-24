@@ -74,13 +74,14 @@ This project presents an interactive HR Analytics Dashboard built in Power BI to
 
 ## 📂 Repository Structure
 
-
+```text
 HR-Analytics-Dashboard-PowerBI
 │
 ├── HR_Analytics_Dashboard.pbix
 ├── HR_Employee_Attrition.csv
 ├── Dashboard_Screenshot.png
 └── README.md
+```
 
 
 ---
@@ -98,10 +99,9 @@ HR-Analytics-Dashboard-PowerBI
 
 **Unnati Navlani**
 
-Aspiring Data Analyst
+Aspiring Data Analyst passionate about transforming raw data into meaningful business insights using SQL, Excel, and Power BI.
 
 **Skills:** SQL • Power BI • Excel • Python (Learning)
-
 ---
 
 ⭐ **If you found this project helpful, consider giving it a Star!**
